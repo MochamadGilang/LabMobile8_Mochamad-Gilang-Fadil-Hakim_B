@@ -18,3 +18,8 @@ Jika ada masalah koneksi atau kredensial tidak valid, notifikasi akan muncul unt
 
 Backend PHP (login.php, koneksi.php)
 Script PHP di backend menerima data username dan password, melakukan hashing pada password, lalu membandingkannya dengan data di tabel pengguna pada database. Jika kredensial sesuai, server akan mengembalikan token berbasis waktu sebagai tanda keberhasilan autentikasi dan status_login sebagai "berhasil." Jika tidak sesuai, server mengembalikan status "gagal" tanpa token, memberi tahu pengguna bahwa login tidak berhasil.
+
+
+![Screenshot 2024-11-05 174022](https://github.com/user-attachments/assets/d561cdf3-6931-4df5-9b24-1a48e82b58aa)
+![Screenshot 2024-10-31 200158](https://github.com/user-attachments/assets/68cb7c43-5152-41b4-a156-e5ee014ecbe0)
+
